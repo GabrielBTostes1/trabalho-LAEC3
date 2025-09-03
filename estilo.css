@@ -1,0 +1,69 @@
+.titulo{
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    color: rgb(0, 0, 0);
+}
+
+.foto{
+    padding: 20px;
+    text-align: center;
+}
+
+#nome{
+    text-align: center;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 3%;
+    gap: 2%;
+}
+
+.card{
+    background-color: #e7e7e7;
+    border: 1px solid black;
+    padding: 1%;
+}
+
+main{
+    background-color: #ffffff;
+}
+
+header{
+    background-color: #e7e7e7;
+    padding: 2%;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    gap: 2%;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: #363636;
+}
+
+main a{
+    color: rgb(17, 0, 255);
+    text-decoration: none;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
+

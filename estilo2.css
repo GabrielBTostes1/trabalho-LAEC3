@@ -1,0 +1,40 @@
+
+main{
+    background-color: #ffffff;
+}
+
+header{
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+    background-color: #e7e7e7;
+    padding: 2%;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+}
+
+header h1{
+    margin-right: 35%;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: #363636;
+}
+
+header a{
+  border: 3px solid black;
+  border-radius: 20%;
+background-color: rgb(211, 16, 16);
+text-decoration: none;
+color: rgb(255, 240, 240);
+
+}
+
+body{
+    background-color: #ffffff;
+}
+
+
